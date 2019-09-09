@@ -2,7 +2,7 @@ package com.bw.util;
 
 import java.util.Random;
 
-import org.junit.Test;
+
 
 /**
  * @a作者wb
